@@ -1,6 +1,6 @@
 dj-database-url
 django-bcrypt
 django-secure
-sentry
+https://github.com/getsentry/sentry/archive/master.zip
 sentry-flowdock
 sentry-github
