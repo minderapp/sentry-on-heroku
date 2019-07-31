@@ -1,6 +1,6 @@
-dj-database-url
-django-bcrypt
-django-secure
 sentry
 sentry-flowdock
 sentry-github
+dj-database-url
+django-bcrypt
+django-secure
