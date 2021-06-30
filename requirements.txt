@@ -1,3 +1,4 @@
+dataclasses
 sentry
 sentry-flowdock
 sentry-github
