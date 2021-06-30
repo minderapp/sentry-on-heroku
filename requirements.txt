@@ -1,7 +1,6 @@
 dataclasses
 libxml2
 libxmlsec1
-xmlsec1
 sentry
 sentry-flowdock
 sentry-github
