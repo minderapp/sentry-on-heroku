@@ -1,4 +1,5 @@
 dataclasses
+xmlsec1
 sentry
 sentry-flowdock
 sentry-github
