@@ -1,6 +1,5 @@
 dataclasses
-p5py
-PEP517
+xmlsec1
 sentry
 sentry-flowdock
 sentry-github
