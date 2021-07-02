@@ -45,7 +45,7 @@ percy==0.4.1              # via sentry
 petname==1.7              # via sentry
 Pillow==3.2.0             # via sentry
 progressbar2==3.10.1      # via sentry
-psycopg2==2.6.2
+psycopg2==2.7.1 #psycopg2==2.6.2
 py-bcrypt==0.4            # via django-bcrypt
 py==1.4.31                # via pytest
 pyasn1==0.1.9             # via cryptography, requests
