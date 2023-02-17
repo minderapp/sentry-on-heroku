@@ -38,7 +38,7 @@ httplib2==0.9.2           # via oauth2
 idna==2.10                 # via cryptography
 ipaddress==1.0.17         # via cryptography, sentry
 kombu==4.6.11             # via celery, sentry
-lxml==3.6.4               # via sentry, toronado
+lxml==4.6.5               # via sentry, toronado
 mock==1.0.1               # via exam, sentry
 ndg-httpsclient==0.4.2
 oauth2==1.9.0.post1       # via sentry
