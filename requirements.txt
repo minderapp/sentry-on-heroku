@@ -43,7 +43,7 @@ mock==1.0.1               # via exam, sentry
 ndg-httpsclient==0.4.2
 oauth2==1.9.0.post1       # via sentry
 percy==0.4.1              # via sentry
-petname==1.7              # via sentry
+petname==2.6              # via sentry
 pillow==9.2.0             # via sentry
 progressbar2==3.41.0      # via sentry
 psycopg2==2.9.5 #psycopg2==2.6.2
