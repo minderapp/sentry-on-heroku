@@ -73,7 +73,7 @@ sentry-github==0.1.2
 sentry-slack==0.5.0
 sentry==23.2.0
 setproctitle==1.1.10      # via sentry
-simplejson==3.8.2         # via sentry
+simplejson==3.17.6        # via sentry
 six==1.10.0               # via cryptography, django-bitfield, pyopenssl, python-dateutil, python-memcached, python-utils, qrcode, sentry, structlog
 South==1.0.1              # via sentry
 sqlparse==0.3.0           # via django-debug-toolbar
