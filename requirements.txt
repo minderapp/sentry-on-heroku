@@ -65,7 +65,7 @@ PyYAML==3.11              # via sentry
 qrcode==5.3               # via sentry
 raven==5.31.0             # via sentry
 rb==1.9.0                   # via sentry
-redis==2.10.5             # via rb, sentry
+redis==3.4.1            # via rb, sentry
 requests==2.25.1          # via percy, sentry
 selenium==2.53.6          # via sentry
 sentry-auth-google==0.1.0
