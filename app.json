@@ -8,8 +8,8 @@
     "error"
   ],
   "addons": [
-    "heroku-postgresql:hobby-dev",
-    "heroku-redis:hobby-dev",
+    "heroku-postgresql:mini",
+    "heroku-redis:mini",
     "sendgrid:starter"
   ],
   "env": {
