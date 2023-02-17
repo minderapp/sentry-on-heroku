@@ -9,8 +9,7 @@
   ],
   "addons": [
     "heroku-postgresql:mini",
-    "heroku-redis:mini",
-    "sendgrid:starter"
+    "heroku-redis:mini"
   ],
   "env": {
     "SECRET_KEY": {
