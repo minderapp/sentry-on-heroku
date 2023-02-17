@@ -29,7 +29,7 @@ django-sudo==2.1.0        # via sentry
 django-templatetag-sugar==1.0  # via sentry
 django>=2.2          # via django-bitfield, django-debug-toolbar, django-secure, sentry
 djangorestframework==3.12.4  # via sentry
-email-reply-parser==0.2.0  # via sentry
+email-reply-parser==0.5.12  # via sentry
 enum34==1.1.6             # via cryptography, python-u2flib-server, sentry
 exam==0.10.6              # via sentry
 hiredis==0.3.1            # via sentry
