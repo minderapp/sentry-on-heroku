@@ -64,7 +64,7 @@ pytz==2021.3              # via celery
 PyYAML==3.11              # via sentry
 qrcode==5.3               # via sentry
 raven==5.31.0             # via sentry
-rb==1.5                   # via sentry
+rb==1.9.0                   # via sentry
 redis==2.10.5             # via rb, sentry
 requests==2.25.1          # via percy, sentry
 selenium==2.53.6          # via sentry
