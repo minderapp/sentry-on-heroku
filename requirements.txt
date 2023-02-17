@@ -7,7 +7,7 @@
 
 setuptools~=57.5.0            # via cryptography
 amqp==1.4.9               # via kombu
-anyjson==0.3.3            # via kombu
+# anyjson==0.3.3            # via kombu
 billiard==3.3.0.23        # via celery
 boto==2.43.0
 celery==3.1.18            # via sentry
