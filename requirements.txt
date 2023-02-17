@@ -66,7 +66,7 @@ qrcode==5.3               # via sentry
 raven==5.31.0             # via sentry
 rb==1.5                   # via sentry
 redis==2.10.5             # via rb, sentry
-requests[security]==2.11.1  # via percy, sentry
+requests==2.25.1          # via percy, sentry
 selenium==2.53.6          # via sentry
 sentry-auth-google==0.1.0
 sentry-github==0.1.2
